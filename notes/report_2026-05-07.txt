@@ -1,0 +1,4 @@
+===== Daily Report =====
+User: randboulad
+Current Path: /home/randboulad/shell_lab
+Files in data: 2
